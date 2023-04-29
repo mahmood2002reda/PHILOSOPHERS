@@ -1,0 +1,14 @@
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.exe
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.deps.json
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.runtimeconfig.json
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.runtimeconfig.dev.json
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.dll
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\bin\Debug\netcoreapp3.1\PHILOSOPHER.pdb
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.dll
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.pdb
+C:\Users\mahmo\source\repos\PHILOSOPHER\PHILOSOPHER\obj\Debug\netcoreapp3.1\PHILOSOPHER.genruntimeconfig.cache
